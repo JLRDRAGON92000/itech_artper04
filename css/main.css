@@ -1,0 +1,62 @@
+/* CSS Document */
+
+body {
+	margin:0 0 0 0;
+	color:#151515;
+	font-family:"Gill Sans","Gill Sans MT","Myriad Pro","DejaVu Sans Condensed","Helvetica","Arial",sans-serif;
+	background-color:#EFF5F8;
+}
+#wrapper {
+	background-color:white;
+	width:100%;
+	min-width:740px;
+	max-width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#hero img {
+	max-width:100%;
+}
+h1,h2 {
+	color:#3399CC;
+	font-weight:600;
+}
+h1 {
+	font-size:72px;
+	text-align:center;
+	text-transform:uppercase;
+	margin-top:0;
+	margin-bottom:0;
+	padding:0 0 0 0;
+}
+#main {
+	width:58%;
+	margin-left:2%;
+	float:left;
+}
+#sidebar {
+	width:34%;
+	margin-left:4%;
+	float:left;
+}
+footer {
+	clear:left;
+	padding-top:2px;
+	padding-bottom:2px;
+	background:#43A6CB;
+	color:#FFFFFF;
+}
+figure {
+	width:420px;
+}
+figcaption {
+	display:block;
+	font-weight:bold;
+	font-size:14px;
+	text-align:center;
+}
+.centered {
+	margin-left:auto;
+	margin-right:auto;
+	
+}
