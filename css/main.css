@@ -58,5 +58,17 @@ figcaption {
 .centered {
 	margin-left:auto;
 	margin-right:auto;
-	
+}
+.floatleft {
+	margin-right:10px;
+	float:left;
+}
+.floatright {
+	margin-left:10px;
+	float:right;
+}
+figure img {
+	padding:10px 10px 10px 10px;
+	background-color:#FFFFFF;
+	box-shadow:1px 1px 15px #999999;
 }
