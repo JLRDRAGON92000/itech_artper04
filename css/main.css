@@ -72,3 +72,35 @@ figure img {
 	background-color:#FFFFFF;
 	box-shadow:1px 1px 15px #999999;
 }
+a {
+	font-weight:bold;
+	text-decoration:none;
+}
+a:link {
+	color:#FF6600;
+}
+a:visited {
+	color:#FF944C;
+}
+a:hover, a:active, a:focus {
+	color:#7F3300;
+	text-decoration:underline;
+}
+#mainnav ul {
+	list-style-type:none;
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+}
+#mainnav a {
+	width:20%;
+	display:block;
+	float:left;
+	text-align:center;
+	background-color:#4D4D4D;
+	color:white;
+	text-transform:uppercase;
+}
+#mainnav a:hover, #mainnav a:active, #mainnav a:focus, #mainnav a.thispage {
+	text-decoration:none;
+	background-color:#43A6CB;
+}

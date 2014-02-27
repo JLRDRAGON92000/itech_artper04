@@ -8,7 +8,7 @@
 	<body>
 		<div id="wrapper">
 			<header id="top">
-				<h1>B@Y51D3 B33T</h1>
+				<h1>B@ys1d3 b33t</h1>
 				<nav id="mainnav">
 					<ul>
 						<li><a href="index.php">Home</a></li>
@@ -31,7 +31,7 @@
 				<p>No visit to San Francisco is complete without a ride on the iconic cable cars that climb up the vertiginous hills of the city. Of the twenty-three lines established between 1873 and 1890, three remain: two routes from downtown near Union Square to <a href="http://www.fishermanswharf.org/">Fisherman's Wharf</a>, and a third route along California Street.</p>
 				
 				<p>The cable cars rely on cables running constantly beneath the road’s surface. The driver—or gripman—uses a lever to grip the cable to pull the car and its passengers up the hill. The gripman requires not only great strength, but also great skill. He needs to know where to release the cable to coast over crossing cables and points. The conductor works in close cooperation with the gripman, operating the brake at the rear of the car to prevent it from running out of control on the downward slopes.</p>
-				<figure><img src="images/cable_car1.jpg" /></figure>
+				<figure class="centered"><img src="images/cable_car1.jpg" /></figure>
 				<figcaption>The cable car terminus near Union Square</figcaption>
 				<p>Although the cable cars are now mainly a tourist attraction, they’re still used by local commuters to get to and from work. The California Street line is particularly popular among commuters on weekdays.</p>
 			</article>
