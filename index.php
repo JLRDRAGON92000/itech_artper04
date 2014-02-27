@@ -4,7 +4,8 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>MASSIVE awesomeness!</title>
 		<link href="css/main.css" rel="stylesheet" type="text/css" />
-		<!--[if lte IE 7]>
+		<script src="//use.edgefonts.net/source-sans-pro:n6:default.js" type="text/javascript"></script>
+		<!--[if lte IE 8]>
 			<script type="text/javascript" src="js/html5shiv.js"></script>
 		<![endif]-->
 	</head>

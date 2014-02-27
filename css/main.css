@@ -27,7 +27,7 @@ body {
 	padding-left: 10px;
 	padding-right: 10px;
 	position: absolute;
-	top: 20px;
+	top: 30px;
 	right: 40px;
 	background-color:#FAA356;
 	border-radius:15px;
@@ -43,6 +43,7 @@ body {
 	max-width:100%;
 }
 h1,h2 {
+	font-family:"source-sans-pro",sans-serif;
 	color:#3399CC;
 	font-weight:600;
 }
@@ -70,6 +71,9 @@ footer {
 	padding-bottom:2px;
 	background:#43A6CB;
 	color:#FFFFFF;
+}
+footer p {
+	margin-left:16px;
 }
 figure {
 	width:420px;
