@@ -4,6 +4,9 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>MASSIVE awesomeness!</title>
 		<link href="css/main.css" rel="stylesheet" type="text/css" />
+		<!--[if lte IE 7]>
+			<script type="text/javascript" src="js/html5shiv.js"></script>
+		<![endif]-->
 	</head>
 	<body>
 		<div id="wrapper">
@@ -11,7 +14,7 @@
 				<h1>B@ys1d3 b33t</h1>
 				<nav id="mainnav">
 					<ul>
-						<li><a href="index.php">Home</a></li>
+						<li><a href="index.php" class="thispage">Home</a></li>
 						<li><a href="sightseeing.php">Sightseeing</a></li>
 						<li><a href="#">Eating Out</a></li>
 						<li><a href="#">What's On</a></li>

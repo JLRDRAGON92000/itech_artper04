@@ -1,5 +1,9 @@
 /* CSS Document */
 
+article,aside,figure,footer,header,nav {
+	display:block;
+}
+
 body {
 	margin:0 0 0 0;
 	color:#151515;
@@ -13,6 +17,27 @@ body {
 	max-width:1000px;
 	margin-left:auto;
 	margin-right:auto;
+}
+#hero {
+	position:relative;
+	clear:left;
+}
+#hero article {
+	width: 36%;
+	padding-left: 10px;
+	padding-right: 10px;
+	position: absolute;
+	top: 20px;
+	right: 40px;
+	background-color:#FAA356;
+	border-radius:15px;
+	color:white;
+}
+#hero h2 {
+	color:white;
+	text-transform:uppercase;
+	margin-top:5px;
+	margin-bottom:-7px;
 }
 #hero img {
 	max-width:100%;
