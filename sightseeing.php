@@ -13,7 +13,7 @@
 	<body>
 		<div id="wrapper">
 			<header id="top">
-				<h1>B@ys1d3 b33t</h1>
+				<h1>Bays1de B3at</h1>
 				<nav id="mainnav">
 					<ul>
 						<li><a href="index.php">Home</a></li>
