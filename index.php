@@ -12,7 +12,10 @@
 	<body>
 		<div id="wrapper">
 			<header id="top">
-				<h1>Bays1de B3at</h1>
+				<h1>bAySiDe BeAt</h1>
+				<!--[if lte IE 10]>
+					<h3 id="noie">We have detected that you are viewing this page in Internet Explorer.<br>This page is best viewed in browsers that are not IE.</h3>
+				<![endif-->
 				<nav id="mainnav">
 					<ul>
 						<li><a href="index.php" class="thispage">Home</a></li>
