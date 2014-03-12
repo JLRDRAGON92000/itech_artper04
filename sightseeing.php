@@ -5,9 +5,6 @@
 		<title>MASSIVE awesomeness!</title>
 		<link href="css/main.css" rel="stylesheet" type="text/css" />
 		<script src="//use.edgefonts.net/source-sans-pro:n6:default.js" type="text/javascript"></script>
-		<!--[if lte IE 8]>
-			<script type="text/javascript" src="js/html5shiv.js"></script>
-		<![endif]-->
 	</head>
 	<body>
 		<div id="wrapper">
@@ -15,7 +12,7 @@
 				<h1>bAySiDe BeAt</h1>
 				<!--[if lte IE 10]>
 					<h3 id="noie">We have detected that you are viewing this page in Internet Explorer.<br>This page is best viewed in browsers that are not IE.</h3>
-				<![endif-->
+				<![endif]-->
 				<nav id="mainnav">
 					<ul>
 						<li><a href="index.php">Home</a></li>
