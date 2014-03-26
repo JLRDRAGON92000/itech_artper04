@@ -26,7 +26,7 @@
 			<div id="hero">
 				<article>
 				<h2>Be WHere IT's aT</h2>
-				<p>San Francisco is one of the most exciting and vibrant cities on the planet. Bayside Beat is here to keep you informed of the best places to see, where to eat, what to do, and where to lay down your weary head after an action-packed day—or night—on the town.q</p>
+				<p>San Francisco is one of the most exciting and vibrant cities on the planet. Bayside Beat is here to keep you informed of the best places to see, where to eat, what to do, and where to lay down your weary head after an action-packed day—or night—on the town.</p>
 				</article>
 				<img src="images/golden_gate.jpg" />
 			</div>
